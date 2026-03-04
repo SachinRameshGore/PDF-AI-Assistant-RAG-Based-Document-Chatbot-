@@ -1,0 +1,21 @@
+# Core
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+
+# Google Gemini
+langchain-google-genai==1.0.10
+google-generativeai==0.7.2
+
+# Vector DB
+faiss-cpu==1.7.4
+
+# PDF
+pypdf==4.2.0
+
+# UI
+streamlit==1.37.1
+
+# Utils
+python-dotenv==1.0.1
+tiktoken==0.7.0
