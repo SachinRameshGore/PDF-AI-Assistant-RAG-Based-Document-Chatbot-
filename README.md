@@ -1,4 +1,4 @@
-# PDF-AI-Assistant-RAG-Based-Document-Chatbot-
+<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/d6fa2157-efa5-4d77-aa37-01b26bb2bed1" /># PDF-AI-Assistant-RAG-Based-Document-Chatbot-
 An AI-powered document assistant that allows users to upload PDF files and interact with them through a conversational interface.  Built using Retrieval-Augmented Generation (RAG) architecture to provide context-grounded responses.
 
 Features
@@ -74,4 +74,8 @@ GOOGLE_API_KEY=your_api_key
 Run the app:
 
 	streamlit run app.py
+
+Screenshot 
+
+<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/99bea7ba-f0cc-46c4-8fd9-79ec1c2e7f0b" />
 
